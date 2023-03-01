@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cquad"]
+	path = cquad
+	url = https://github.com/fravale/cquad_dev
+	shallow = true
+	registered = true
